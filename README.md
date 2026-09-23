@@ -6,7 +6,7 @@ An end-to-end **Power BI** business intelligence dashboard that cleans, models, 
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](replace_with_link_to_your_uploaded_screenshot_image)
+![Dashboard Preview](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/Data%20Jobs%20Dashboard.png)
 
 ## Tools, Technical Knowledge & Skills Applied
 
@@ -31,6 +31,14 @@ An end-to-end **Power BI** business intelligence dashboard that cleans, models, 
 * **Market Demand:** Python and SQL dominate requirements, combining for over **437K** total skill mentions.
 * **Salary Leaders:** Senior Data Scientists lead compensation rankings with a gross median salary of **\$156K**.
 * **Skill Thresholds:** Across all entry levels and senior tracks, the industry average trends steadily at **5 core tech skills** per job profile.
+
+---
+
+## Dataset used 
+[job_postings_fact]()
+[skills.dim]()
+[skills_job.dim]()
+[company_dim]()
 
 ---
 
