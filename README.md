@@ -7,6 +7,7 @@ An end-to-end **Power BI** business intelligence dashboard that cleans, models, 
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/Data%20Jobs%20Dashboard.png)
+![Dashboard Preview]()
 
 ## Tools, Technical Knowledge & Skills Applied
 
@@ -36,8 +37,8 @@ An end-to-end **Power BI** business intelligence dashboard that cleans, models, 
 
 ## Dataset used 
 * [job_postings_fact](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/job_postings_fact.csv%20(1).zip)
-* [skills.dim]()
-* [skills_job.dim](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/skills_dim.csv)
+* [skills.dim](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/skills_dim.csv)
+* [skills_job.dim](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/skills_job_dim.csv)
 * [company_dim](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/company_dim.csv)
 
 ---
