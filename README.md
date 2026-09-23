@@ -7,7 +7,7 @@ An end-to-end **Power BI** business intelligence dashboard that cleans, models, 
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/Data%20Jobs%20Dashboard.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/deepika-analyst/powerbi-data-job-market-analysis/blob/main/Data%20Jobs%20Dashboard%20I2.png)
 
 ## Tools, Technical Knowledge & Skills Applied
 
